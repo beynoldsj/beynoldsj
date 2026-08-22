@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beynoldsj
 - 👀 I’m interested in glaciology particularly calving, crevasses, and ice sheet modeling.
 - 🌱 I’m currently learning: usually more python and matlab...
-- 📫 How to reach me: br77@buffalo.edu
+- 📫 How to reach me: breynold@caltech.edu
 - 😄 Pronouns: he/him
 
 <!---
